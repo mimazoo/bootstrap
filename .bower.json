@@ -1,0 +1,13 @@
+{
+  "name": "ui-bootstrap",
+  "homepage": "https://github.com/tomislijepcevic/bootstrap",
+  "_release": "3d701573f3",
+  "_resolution": {
+    "type": "branch",
+    "branch": "gh-pages",
+    "commit": "3d701573f3e5b7694a92c7425d70c5cbb050520c"
+  },
+  "_source": "git@github.com:tomislijepcevic/bootstrap.git",
+  "_target": "gh-pages",
+  "_originalSource": "git@github.com:tomislijepcevic/bootstrap.git"
+}
